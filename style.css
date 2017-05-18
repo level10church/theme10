@@ -8,3 +8,15 @@
  *  Version:      1.0.0
  *  License:      Copyright 2017 Level 10 Church
  */
+
+.blog-info {
+    background: #513444;
+}
+
+.section.bg-dark {
+    background: #513444;
+}
+
+.navigation.section.bg-dark {
+    border-bottom: 2px solid #6005b5;
+}
