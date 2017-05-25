@@ -13,6 +13,10 @@ body.home .header {
     padding: 200px 0;
 }
 
+body.home .post-title {
+    display: none;
+}
+
 .blog-info {
     background: #513444;
 }
