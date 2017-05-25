@@ -9,6 +9,10 @@
  *  License:      Copyright 2017 Level 10 Church
  */
 
+body.home .header {
+    padding: 200px 0;
+}
+
 .blog-info {
     background: #513444;
 }
